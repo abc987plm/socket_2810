@@ -1,6 +1,6 @@
-##2810客户机登陆程序
+## 2810客户机登陆程序
 
-####2810_tk.py
+#### 2810_tk.py
 
 ![输入图片说明](https://github.com/abc987plm/socket_2810/blob/master/2810%E5%AE%A2%E6%88%B7%E6%9C%BA%E7%99%BB%E9%99%86%E7%A8%8B%E5%BA%8F.png"2810客户机登陆程序界面")
 
@@ -13,7 +13,7 @@
 	business --  恢复水牌界面
 	refresh  --  更新会议资料
 
-####socket_client.py
+#### socket_client.py
 
 在客户端中添加到开机启动
 

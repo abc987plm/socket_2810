@@ -2,6 +2,8 @@
 
 ####2810_tk.py
 
+https://github.com/abc987plm/socket_2810/blob/master/2810%E5%AE%A2%E6%88%B7%E6%9C%BA%E7%99%BB%E9%99%86%E7%A8%8B%E5%BA%8F.png
+
 界面已经按会场座位排序了，在指定号座上输入名字即可签到。
 
 	对单个客户端发送特殊作用指令：
